@@ -172,7 +172,6 @@ Areas that need work:
 
 ## Learning Resources
 
-Building this project taught me:
 - C memory management and pointers
 - NumPy's internal array structure
 - Broadcasting algorithm
