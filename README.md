@@ -189,6 +189,6 @@ MIT License
 
 ## Acknowledgments
 
-Inspired by NumPy, PyTorch, and the excellent educational content from:
+Inspired by NumPy, PyTorch, and educational content from:
 - Jake VanderPlas's Python Data Science Handbook
 - Nicolas Rougier's "From Python to Numpy"
