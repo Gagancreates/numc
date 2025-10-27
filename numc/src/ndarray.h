@@ -21,6 +21,7 @@ typedef struct{
 } ndarray;
 
 ndarray* create_ndarray(int* shape, int ndim, size_t size);
+size_t get_size(dtype_t dtype);
 void* free_ndarray(ndarray* arr);
 void* ndarray_getptr(ndarray* arr, int* indices);
 
